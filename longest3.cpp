@@ -1,3 +1,11 @@
+/* some numbers (0 - 9)
+ * find some
+ * combine into max 3k
+ * example: 1 1 1 => 111
+ *          1 2 3 => 321
+ *          1 2 3 4 => 432
+ *          0 0 0 => none
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <cstring>
